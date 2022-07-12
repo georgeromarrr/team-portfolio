@@ -23,10 +23,10 @@ class navbar extends Component {
                   <a class="nav-link nvbar_fnt fw-bold" href="#about-us">ABOUT</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nvbar_fnt fw-bold disable" href="#">SERVICES</a>
+                  <a class="nav-link nvbar_fnt fw-bold" href="#services">SERVICES</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nvbar_fnt fw-bold disable">CONTACT</a>
+                  <a class="nav-link nvbar_fnt fw-bold" href="#contact">CONTACT</a>
                 </li>
               </ul>
             </div>
