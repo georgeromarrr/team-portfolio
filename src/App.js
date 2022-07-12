@@ -5,7 +5,6 @@ import Profile from './components/Profile'
 const App = () =>{
   return(
      <div className='container'>
-      <h1>Profile Description</h1>
        <div className="gallery">
        {profileData.map(datas => (
         <Profile
