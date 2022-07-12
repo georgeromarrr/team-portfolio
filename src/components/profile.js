@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './Profile.css'
+import './profile.css'
 
 export default class profile extends Component {
   render() {
@@ -9,7 +9,7 @@ export default class profile extends Component {
         <div className="image-overlay">
             <div className="image-title">
             {this.props.name} <br/>
-            {this.props.job}
+            <h4>{this.props.job}</h4>
             </div>
             <p className="image-description">
                 {this.props.content}

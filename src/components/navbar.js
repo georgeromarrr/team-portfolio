@@ -9,7 +9,7 @@ class navbar extends Component {
         return (
           <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-black">
           <div class="container">
-            <a class="navbar-brand" href="#"><img src={imglogo} height="50" alt="Aracholo Logo"/></a>
+            <a class="navbar-brand" href="#"><img src={imglogo} height="50" alt="Aracholō Logo"/></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -20,13 +20,13 @@ class navbar extends Component {
                   <a class="nav-link active nvbar_fnt fw-bold" aria-current="page" href="#">HOME</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nvbar_fnt fw-bold" href="#">ABOUT</a>
+                  <a class="nav-link nvbar_fnt fw-bold" href="#about-us">ABOUT</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nvbar_fnt fw-bold" href="#">PROJECT</a>
+                  <a class="nav-link nvbar_fnt fw-bold disable" href="#">PROJECT</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nvbar_fnt fw-bold">CONTACT</a>
+                  <a class="nav-link nvbar_fnt fw-bold disable">CONTACT</a>
                 </li>
               </ul>
             </div>

@@ -10,6 +10,15 @@
   color: #ffffff !important;
 }
 
+.nvbar_fnt.disable{
+  color: #454444 !important;
+}
+
+.nvbar_fnt.disable:hover{
+  color: #454444 !important;
+  cursor: default !important;
+}
+
 .nvbar_fnt:hover {
   color: #ffffff !important;
 }

@@ -10,8 +10,8 @@ const profileData =[
     id: 2,
     name: "Romar George Doinog",
     job: "Fullstack Web Developer",
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime est, sunt ducimus expedita in at quidem. Sit ratione harum voluptates illo rerum incidunt earum aperiam temporibus, maxime ea. Voluptas, autem!",
-    image: "https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.6435-9/122973763_2766170686990905_3221863303173356510_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGcIJTebw-tGnVoIi-2OfOfDZmUSDJAd7ENmZRIMkB3sW0f6rcH5lnddGWsdQJYoLYkkK71dndMzwVeTMlrIS-H&_nc_ohc=aG-JwJWAnGIAX8RFZOX&_nc_ht=scontent.fmnl30-3.fna&oh=00_AT8_mp3s-I5Dnofd134zPNrgwfnYHQujgGyOp5h3pzMf3w&oe=62F3DAA5"
+    content: "Hi! you can call me Romar. I lived in Cainta, Rizal. I am a graduate of Bachelor of Science in Information Technology, and I have a extensive experience as a QA for Web and Mobile, and also I'm currently pursuing my dream to be a Full-Stack Web Developer.I am a very versatile, bubbly, and Affable person.",
+    image: "https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/275004573_3122768487997788_6157761293213771827_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGu2PqptyyCPTK2owWeUt7yk0rJAWlS-7uTSskBaVL7u4k1EMD1jUgMKuvAOykJG9K7FpPFeqWAFvkS6iTK5Htl&_nc_ohc=J3MXbR5unw8AX_Y8xZ-&_nc_oc=AQlrjKUzagR60TMxpjJDCNCLg3r2aOxfP1RFJ1wvtD8mWWgWowmv_qlp6XxU2hpJ8JE&tn=T4o0yveTOIDTtBYZ&_nc_ht=scontent.fmnl17-1.fna&oh=00_AT_NJUnf27f_xhAnFiCAYdVWyjIQw2H1wX-qyB3-fdyq7g&oe=62D19678"
 },
 {
     id: 3,

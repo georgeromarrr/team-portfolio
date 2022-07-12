@@ -7,7 +7,8 @@ body{
   font-family: 'Barlow', sans-serif;
   font-size: 1rem;
   -webkit-text-size-adjust: 100%;
-  background-color: #000000;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 40%, rgba(236, 232, 225, 0.1) 100%), url("./bg-01.png");
+  background-size: cover;
 }
 
 .titleheader{

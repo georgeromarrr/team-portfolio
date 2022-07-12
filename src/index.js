@@ -6,8 +6,8 @@ import './index.css';
 import Navbar from './components/navbar';
 import Header from './components/header';
 import About from './components/aboutus';
-import Contact from './components/contact';
 import Footer from './components/footer';
+import App from './components/App'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,7 +15,7 @@ root.render(
     <Navbar />
     <Header />
     <About />
-    <Contact />
+    <App/>
     <Footer />
   </React.StrictMode>
 );
