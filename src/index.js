@@ -10,7 +10,7 @@ import About from './components/aboutus';
 import App from './components/App'
 import Services from './components/services';
 import Footer from './components/footer';
-
+import Contact from './components/contact'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
@@ -19,6 +19,7 @@ root.render(
     <About />
     <App/>
     <Services/>
+    <Contact/>
     <Footer />
   </React.StrictMode>
 );
