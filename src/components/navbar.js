@@ -17,16 +17,16 @@ class navbar extends Component {
             <div class="collapse navbar-collapse" id="navbarCollapse">
               <ul class="navbar-nav ms-auto mb-2 mb-md-0">
                 <li class="nav-item">
-                  <a class="nav-link active nvbar_fnt fw-bold" aria-current="page" href="#">HOME</a>
+                  <a class="nav-link nvbar_fnt fw-bold" aria-current="page" href="#">HOME</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link nvbar_fnt fw-bold" href="#about-us">ABOUT</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nvbar_fnt fw-bold disable" href="#">SERVICES</a>
+                  <a class="nav-link nvbar_fnt fw-bold" href="#services">SERVICES</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link nvbar_fnt fw-bold disable">CONTACT</a>
+                  <a class="nav-link nvbar_fnt fw-bold" href="#">CONTACT</a>
                 </li>
               </ul>
             </div>

@@ -21,3 +21,11 @@ body{
 .font_clr {
   color: #3cb389;
 }
+
+.icn_size {
+  font-size: 50px;
+}
+
+.srvcs_container:hover {
+  color: #3cb389;
+}

@@ -17,7 +17,7 @@ const profileData =[
     id: 3,
     name: "Louie John Jumao-as Lauro",
     job: "Fullstack Web Developer",
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime est, sunt ducimus expedita in at quidem. Sit ratione harum voluptates illo rerum incidunt earum aperiam temporibus, maxime ea. Voluptas, autem!",
+    content: "Hello im a full stack web developer driver, i can make your business go to digital world.",
     image: "https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.6435-9/87468127_2733610623421211_3532957295015100416_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeGrbw59CgvLR64BsJPv1KCWqYvNbTd2aAupi81tN3ZoC0D4kkoxazUp2Ja1ovSJ7Flxbr-3iTxyYNGi5UEE7WdL&_nc_ohc=5kglAGC2AmYAX_YxY5p&_nc_ht=scontent.fmnl30-3.fna&oh=00_AT8KEC0G3PJZ420-w29Jb4wbO2bLKmhZAmJVn_VlGFE3YQ&oe=62F1504A"
 }
 
