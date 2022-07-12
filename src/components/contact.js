@@ -6,7 +6,7 @@ class contact extends Component {
     render() {
         return (
           <div id="contact" className="container p-5 bg-dark rounded-3 text-dark text-white rounded bg-opacity-75 shadow" >
-           <h1 class="fw-bold titleheader">Contact Us</h1>
+           <h1 className="fw-bold font_clr titleheader">CONTACT US</h1>
           <div className="border"></div>
           <form className='contact-form'>
             <input type="text" className='contact-form-text' placeholder='Name' />
