@@ -3,7 +3,7 @@ const profileData =[
     id: 1,
     name: "John Ralph C. Yambao",
     job: "Fullstack Web Developer",
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime est, sunt ducimus expedita in at quidem. Sit ratione harum voluptates illo rerum incidunt earum aperiam temporibus, maxime ea. Voluptas, autem!",
+    content: "Hi, I'm Ralph. I live in Santa Rosa, Laguna. I am a Computer Engineering undergraduate, I don't have experience working yet but I am looking to start my tech career in the web development industry.",
     image: "https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.6435-9/29791252_1943180245693554_2611586307788374016_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFoF5dhDT6CVjxxe-Sdx5AU47w981oCi93jvD3zWgKL3TZphtnpNbiC4HABQMp-dWV2H67gU8_3fam6fq7SmX89&_nc_ohc=M_oyeunEV8oAX_cC4RH&_nc_ht=scontent.fmnl30-3.fna&oh=00_AT8CLKParSyDNlzS5XAFinQclMwMBFbGVZYIPJ7z4124lQ&oe=62F0FCA8"
 },
 {
@@ -24,8 +24,6 @@ const profileData =[
 ]
 
 export default profileData;
-
-
 
 
 
