@@ -2,7 +2,6 @@ import React from 'react'
 import profileData from './data'
 import Profile from './profile'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './aboutus.css'
 
 const App = () =>{
   return (

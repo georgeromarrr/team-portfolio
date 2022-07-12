@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './aboutus.css';
 
 class aboutus extends Component {
   
@@ -19,15 +18,15 @@ class aboutus extends Component {
                 <span class="fs-4 fst-italic">arachne + excolō: </span>
 
                 <p class="fs-5 pt-1">
-                  From the word <span class="fst-italic fw-bold">arachne</span> in Greek: “Spider”. Arachne was a weaver who acquired such skill in her art that she ventured to challenge Athena, goddess of war, handicraft, and practical reason. We used it as the reference to say that the we as a Web Developer is a Arachne.
+                  From the word <span class="fst-italic fw-bold">arachne</span> in Greek: “Spider”. Arachne was a weaver who acquired such skill in her art that she ventured to challenge Athena, goddess of war, handicraft, and practical reason. We used it as the reference to say that the we as a Web Developer is a Arachne “Spider”.
                 </p>
 
                 <p class="fs-5 pt-1">
-                  And the word <span class="fst-italic fw-bold">excolo</span> in latin: to Cultivate or Improve. We used this meaning as an idea that we as a web developer we improve the lives of each and everyone by creating application that solves their problem also cultivating technology towards the digital age.
+                  And the word <span class="fst-italic fw-bold">excolo</span> in latin: to Cultivate or to Improve. We used this meaning as an idea that we as a web developer we improve the lives of each and everyone by creating application that solves their problem also cultivating technology towards the digital age.
                 </p>
 
                 <p class="fs-5">
-                  We are the <span class="fst-italic fw-bold">Aracholō</span> family. 
+                  We are the <span class="fst-italic fw-bold">Aracholō</span> group we will help you to improve and cultivate your place at the world wide web. 
                 </p>
               </div>
             </div>

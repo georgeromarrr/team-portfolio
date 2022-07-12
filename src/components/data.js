@@ -10,8 +10,8 @@ const profileData =[
     id: 2,
     name: "Romar George Doinog",
     job: "Fullstack Web Developer",
-    content: "Hi! you can call me Romar. I lived in Cainta, Rizal. I am a graduate of Bachelor of Science in Information Technology, and I have a extensive experience as a QA for Web and Mobile, and also I'm currently pursuing my dream to be a Full-Stack Web Developer.I am a very versatile, bubbly, and Affable person.",
-    image: "https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-6/275004573_3122768487997788_6157761293213771827_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGu2PqptyyCPTK2owWeUt7yk0rJAWlS-7uTSskBaVL7u4k1EMD1jUgMKuvAOykJG9K7FpPFeqWAFvkS6iTK5Htl&_nc_ohc=J3MXbR5unw8AX_Y8xZ-&_nc_oc=AQlrjKUzagR60TMxpjJDCNCLg3r2aOxfP1RFJ1wvtD8mWWgWowmv_qlp6XxU2hpJ8JE&tn=T4o0yveTOIDTtBYZ&_nc_ht=scontent.fmnl17-1.fna&oh=00_AT_NJUnf27f_xhAnFiCAYdVWyjIQw2H1wX-qyB3-fdyq7g&oe=62D19678"
+    content: "Hi! you can call me Romar. I lived in Cainta, Rizal. I am a graduate of Bachelor of Science in Information Technology, and I have a extensive experience as a QA for Web and Mobile, and also I'm currently pursuing my dream to be a Full-Stack Web Developer. I am a very versatile, bubbly, and Affable person.",
+    image: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/274986638_3122768481331122_966989869111493820_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG4gZloKwg9b3w6LLVu7bNt0axgY83WQ2XRrGBjzdZDZX_GSICeWcj9Uhab81p-0ZkjvOyQo7iv5tgvtsgqximU&_nc_ohc=4k-c4i3wOAoAX-5zcXT&_nc_ht=scontent.fmnl17-3.fna&oh=00_AT_x93dlzs-UpGtEevRMOFO3nwkUjmkF6FXv3Mg-v5OBKQ&oe=62D24ED6"
 },
 {
     id: 3,

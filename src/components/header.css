@@ -3,7 +3,7 @@
 }
 
 .bg-header {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 1) 2%, rgba(0, 0, 0, 0.1) 100%), url("./img/bg-01.png");
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 1) 2%, rgba(0, 0, 0, 0.1) 100%), url("./img/bg.svg");
   background-size: cover;
   height: 59.2em !important;
 }

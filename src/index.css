@@ -7,14 +7,14 @@ body{
   font-family: 'Barlow', sans-serif;
   font-size: 1rem;
   -webkit-text-size-adjust: 100%;
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 40%, rgba(236, 232, 225, 0.1) 100%), url("./bg-01.png");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1) 40%, rgba(236, 232, 225, 0.1) 100%), url("./bg.svg");
   background-size: cover;
 }
 
 .titleheader{
   font-family: 'Barlow', sans-serif;
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #3cb389;
 }
 
