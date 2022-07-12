@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url(//db.onlinewebfonts.com/c/561f38b1f4570de0fb8a39d691ab058c?family=Tungsten+Bold);
 
 
 body{
@@ -6,4 +7,16 @@ body{
   font-family: 'Barlow', sans-serif;
   font-size: 1rem;
   -webkit-text-size-adjust: 100%;
+  background-color: #000000;
+}
+
+.titleheader{
+  font-family: 'Barlow', sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  color: #3cb389;
+}
+
+.font_clr {
+  color: #3cb389;
 }

@@ -1,0 +1,9 @@
+.header{
+  padding-top: 20em;
+}
+
+.bg-header {
+  background-image: url("./img/bg-01.png");
+  background-size: cover;
+  height: 59.2em !important;
+}
