@@ -5,7 +5,7 @@ class aboutus extends Component {
   
     render() {
         return (
-          <div id="services" class="container">
+          <div id="services" class="container pt-2">
             <div class="container py-3 my-5 px-4">
               <div
                 class="p-5 m-3 bg-dark rounded-3 text-dark text-white rounded shadow"
